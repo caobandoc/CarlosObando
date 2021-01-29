@@ -1,0 +1,30 @@
+{
+	"INTRD": {
+		"LBL_INTRD_ACTIVIDLD_51417": "Actividad Actual",
+		"LBL_INTRD_ACTIVIDUA_77125": "Actividad actual",
+		"LBL_INTRD_APELLIDOO_73601": "Apellido",
+		"LBL_INTRD_CUENTADIN_37910": "Cuenta destino",
+		"LBL_INTRD_CUENTAONI_77508": "Cuenta origen",
+		"LBL_INTRD_ESTADOCII_87145": "Estado civil",
+		"LBL_INTRD_ESTADOCII_88916": "EStado civil",
+		"LBL_INTRD_ESTADOCIV_14230": "Estado Civil",
+		"LBL_INTRD_LIMPIARBF_62342": "Limpiar",
+		"LBL_INTRD_NOMBRECPO_17899": "Nombre Completo",
+		"LBL_INTRD_NOMBRECTO_21050": "Nombre completo",
+		"LBL_INTRD_NOMBREHKL_31585": "Nombre",
+		"LBL_INTRD_NUMEROCEO_41719": "Numero de cuenta origen",
+		"LBL_INTRD_NUMEROCNI_30185": "Numero de cuenta destino",
+		"LBL_INTRD_NUMEROCNT_34308": "Numero de cuenta",
+		"LBL_INTRD_NUMERODSS_61493": "Numero dos",
+		"LBL_INTRD_NUMEROUNN_16375": "Numero uno",
+		"LBL_INTRD_OKBSJSHIA_11172": "OK",
+		"LBL_INTRD_PRUEBASIN_94943": "pruebas",
+		"LBL_INTRD_RESTAURRA_47887": "Restaurar",
+		"LBL_INTRD_RESULTADO_62063": "Resultado",
+		"LBL_INTRD_SALDOOJOX_32268": "Saldo",
+		"LBL_INTRD_SELECCIAO_79645": "Seleccionar",
+		"LBL_INTRD_SUMARSEXP_24081": "Sumar",
+		"LBL_INTRD_TRANSFERR_50570": "Transferir",
+		"LBL_INTRD_VALORATAI_93331": "Valor a transferir"
+	}
+}

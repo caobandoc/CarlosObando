@@ -1,0 +1,34 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONEFGOZMR_868978",
+		"controlName": "VA_VABUTTONEFGOZMR_868978",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 1
+			}
+		],
+		"entityName": "CuentaOrigen",
+		"eventsType": "visualAttributeEventType"
+	},
+	{
+		"attributeName": "",
+		"controlId": "VC_TRANSFERNR_270306",
+		"controlName": "",
+		"controlType": "",
+		"customEvents": [
+			{
+				"eventName": "initData",
+				"executionType": 1
+			},
+			{
+				"eventName": "render",
+				"executionType": 1
+			}
+		],
+		"entityName": "",
+		"eventsType": "viewContainerEventType"
+	}
+]

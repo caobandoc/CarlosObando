@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_PERSONAHP_927",
+			"isContextEntity": null,
+			"moduleId": "INTRD",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
